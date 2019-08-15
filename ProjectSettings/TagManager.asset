@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall
+  - Sight
+  - Sound
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Enemy
+  - Obstacle
+  - Effects
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2601942081
+    locked: 0
+  - name: Effects
+    uniqueID: 3681654073
+    locked: 0
+  - name: Environment
+    uniqueID: 3373607423
+    locked: 0
+  - name: Enemy
+    uniqueID: 1979713535
+    locked: 0
+  - name: Player
+    uniqueID: 60354375
+    locked: 0
+  - name: ForegroundFX
+    uniqueID: 1163464523
+    locked: 0
+  - name: Blindfold
+    uniqueID: 2144176397
+    locked: 0
+  - name: UI
+    uniqueID: 455839121
+    locked: 0
